@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cauagbm11
-- 👀 I’m interested in ... Programming e Cyber Security
-- 🌱 I’m currently learning ... Cyber Security
+- 👀 I’m interested in ... Programming 
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... Projetos 
 - 📫 How to reach me ... cauaguerreiromedeiros@gmail.com//Linkedin: Cauã Medeiros//Instagram:C_guerreiro01
 
